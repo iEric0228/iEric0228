@@ -1,18 +1,71 @@
-# 💫 About Me:
-# Hey, I'm Eric 👋<br><br>I'm a Computer Engineering graduate transitioning into **DevOps & Cloud Engineering**, <br>with a focus on building automated, scalable infrastructure on AWS.<br><br>I'm passionate about cloud cost optimization, container orchestration, and using AI <br>to make infrastructure smarter. Most of my projects live at the intersection of <br>**Infrastructure as Code, CI/CD pipelines, and cloud-native tooling**.<br><br>## 🔧 What I'm working with<br>- **Cloud:** AWS (SAA-C03 candidate | AWS Cloud Practitioner certified)<br>- **IaC & Containers:** Terraform · Docker · Kubernetes (EKS)<br>- **CI/CD:** GitHub Actions<br>- **Languages:** Python · Bash · HCL<br><br>## 🚀 Featured Projects<br>- 🧟 **[FinOps Zombie Hunter](https://github.com/iEric0228/finops-zombie-hunter)** — Automated AWS resource cleanup to eliminate cloud waste<br>- 🤖 **[AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS<br>(https://github.com/iEric0228/AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS)** — AI-powered SRE Incident Analysis System built on AWS<br>- 📦 **[Containerized 3-Tier App](https://github.com/iEric0228/Containerized-3-Tier-Application)** — Full-stack app deployed via Terraform with a proper CI/CD pipeline<br><br>## 📫 Let's connect<br>[LinkedIn](https://www.linkedin.com/in/eric-chiu-a610553a3/) · [Email](ericchiu0228@gmail.com)
+<div align="center">
 
+# Hey there, I'm Eric 👋
+### DevOps & Cloud Engineer | AWS Certified | Building Smarter Infrastructure
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-chiu-a610553a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ericchiu0228@gmail.com) 
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/iEric0228)
+[![SAA-C03](https://img.shields.io/badge/AWS-SAA--C03_Candidate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/iEric0228)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iEric0228&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iEric0228&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iEric0228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iEric0228&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+I'm a Computer Engineering graduate transitioning into **DevOps & Cloud Engineering**, passionate about building automated, scalable, and cost-efficient infrastructure on AWS. I love working at the intersection of cloud-native tooling, AI-driven automation, and Infrastructure as Code.
+
+- 🔭 Currently building an **AI-powered SRE Incident Analysis System** with AWS Step Functions & Amazon Bedrock
+- ☁️ Actively preparing for the **AWS Solutions Architect Associate (SAA-C03)**
+- 💡 Passionate about **FinOps**, **observability**, and making infrastructure self-healing
+- 🌱 Open to **DevOps / Cloud Engineering** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**CI/CD & Automation**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🚨 [**AI-SRE Incident Analysis System**](https://github.com/iEric0228/AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS) | Event-driven serverless pipeline that auto-detects infrastructure issues, collects contextual data, and generates AI-powered root-cause analysis | AWS Step Functions · Lambda · Bedrock · DynamoDB · Terraform |
+| 🧟 [**FinOps Zombie Hunter**](https://github.com/iEric0228/finops-zombie-hunter) | Automated weekly scan & cleanup of unused AWS resources to eliminate cloud waste | AWS Lambda · Terraform · Python |
+| 📦 [**Containerized 3-Tier App**](https://github.com/iEric0228/Containerized-3-Tier-Application) | Full-stack app with Terraform IaC and CI/CD pipeline with automated testing | Docker · Terraform · GitHub Actions |
+| ☁️ [**Cloud Resume**](https://github.com/iEric0228/Cloud-resume) | Cloud Resume Challenge — portfolio site with auto-deploy on Git push | AWS · HCL · Terraform |
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-chiu-a610553a3 )
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ericchiu0228@gmail.com)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iEric0228&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEric0228&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
