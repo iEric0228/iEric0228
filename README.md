@@ -58,15 +58,9 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 |  [**Containerized 3-Tier App**](https://github.com/iEric0228/Containerized-3-Tier-Application) | Full-stack app deployed via Terraform IaC with a CI/CD pipeline that runs tests before deploying | Docker · Terraform · GitHub Actions |
 |  [**Cloud Resume**](https://github.com/iEric0228/Cloud-resume) | Cloud Resume Challenge — auto-deploys on Git push with full AWS backend | AWS · HCL · Terraform |
 
-### GitHub Stats
+###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iEric0228&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEric0228&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iEric0228&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iEric0228&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
