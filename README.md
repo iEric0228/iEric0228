@@ -22,7 +22,7 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -36,7 +36,6 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Observability**
 
@@ -49,11 +48,10 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-### Featured Projects
+###Featured Projects
 
 <a href="https://github.com/iEric0228/AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iEric0228&repo=AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS&theme=tokyonight&hide_border=true" />
