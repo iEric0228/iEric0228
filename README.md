@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eric%20Chiu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-chiu-a610553a3)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ericchiu0228@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/iEric0228)
 ![Profile Views](https://komarev.com/ghpvc/?username=iEric0228&color=blueviolet&style=flat)
 
@@ -49,27 +49,14 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
 
----
+### Featured Projects
 
-###Featured Projects
-
-<a href="https://github.com/iEric0228/AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iEric0228&repo=AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/iEric0228/finops-zombie-hunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iEric0228&repo=finops-zombie-hunter&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/iEric0228/Containerized-3-Tier-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iEric0228&repo=Containerized-3-Tier-Application&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/iEric0228/Cloud-resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iEric0228&repo=Cloud-resume&theme=tokyonight&hide_border=true" />
-</a>
-
----
+| Project | Description | Stack |
+|--------|-------------|-------|
+|  [**AI-SRE Incident Analysis System**](https://github.com/iEric0228/AI-SRE-INCIDENT-ANALYSIS-SYSTEM-AWS) | Event-driven serverless pipeline that auto-detects infrastructure issues and generates AI-powered root-cause analysis using Amazon Bedrock | Step Functions · Lambda · Bedrock · DynamoDB · Terraform |
+|  [**FinOps Zombie Hunter**](https://github.com/iEric0228/finops-zombie-hunter) | Scheduled Lambda that scans AWS accounts for unused resources and calculates cost savings | Lambda · Python · Terraform |
+|  [**Containerized 3-Tier App**](https://github.com/iEric0228/Containerized-3-Tier-Application) | Full-stack app deployed via Terraform IaC with a CI/CD pipeline that runs tests before deploying | Docker · Terraform · GitHub Actions |
+|  [**Cloud Resume**](https://github.com/iEric0228/Cloud-resume) | Cloud Resume Challenge — auto-deploys on Git push with full AWS backend | AWS · HCL · Terraform |
 
 ### GitHub Stats
 
