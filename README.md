@@ -18,7 +18,7 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 - Engineered a **FinOps automation tool** that identifies and eliminates unused cloud resources on a scheduled basis
 - Passionate about **CI/CD pipelines**, **IaC**, and building systems that scale without breaking
  
-**Check out my resume at [ericchiu.page](https://ericchiu.page)**
+**Check out my cloud resume at [ericchiu.page](https://ericchiu.page)**
 ---
 
 ### Certifications
