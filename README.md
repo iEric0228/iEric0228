@@ -1,16 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eric%20Chiu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18" width="100%"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-chiu-a610553a3)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ericchiu0228@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ericchiu.page)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/iEric0228)
 ![Profile Views](https://komarev.com/ghpvc/?username=iEric0228&color=blueviolet&style=flat)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?style=flat&logo=checkmarx&logoColor=white)](mailto:ericchiu0228@gmail.com)
 </div>
- 
-[![Infrastructure](https://img.shields.io/badge/Infrastructure-as%20Code-blue?style=flat-square)]()
- 
-**Live Site:** [https://ericchiu.page](https://ericchiu.page)
----
 
 ### About Me
 
@@ -20,7 +17,8 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 - Engineered an **EKS-based GPU autoscaler** using Karpenter to dynamically provision and de-provision nodes for LLM inference workloads
 - Engineered a **FinOps automation tool** that identifies and eliminates unused cloud resources on a scheduled basis
 - Passionate about **CI/CD pipelines**, **IaC**, and building systems that scale without breaking
-
+ 
+**Check out my resume at [ericchiu.page](https://ericchiu.page)**
 ---
 
 ### Certifications
