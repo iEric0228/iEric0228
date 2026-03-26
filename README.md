@@ -27,8 +27,6 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-In_Progress-7B42BC?style=flat&logo=terraform&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-Planned-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -77,6 +75,7 @@ I'm a **DevOps & Cloud Engineer** who builds production-grade, event-driven infr
 | [**FinOps Zombie Hunter**](https://github.com/iEric0228/finops-zombie-hunter) | Scheduled Lambda that scans AWS accounts for unused resources, calculates cost waste, and auto-remediates on a weekly cadence | Lambda · Python · Terraform |
 | [**Containerized 3-Tier App**](https://github.com/iEric0228/Containerized-3-Tier-Application) | Full-stack application deployed via Terraform IaC with a CI/CD pipeline that enforces tests before every deployment | Docker · ECS · RDS · Terraform · GitHub Actions |
 | [**MCP DevOps Mentor**](https://github.com/iEric0228/MCP-DevOps-Mentor) | Dockerized MCP server acting as a senior DevOps mentor — reviews infra, CI/CD pipelines, and cloud architecture with real-world best practices | Docker · Python · GitHub API |
+| [**Cloud Resume**](https://github.com/iEric0228/Cloud-resume) | Serverless resume site on AWS with auto-deploy via GitHub Actions, visitor counter Lambda, and full Terraform IaC | CloudFront · Lambda · DynamoDB · Terraform |
 
 ---
 
